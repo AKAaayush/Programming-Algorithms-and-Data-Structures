@@ -1,0 +1,16 @@
+// To find duplicate value in array.
+Step1.Start
+Step2.Declare an Array[0,1,2,5,6,5,4,6,7]
+Step3. Declare i = 0
+Step4. for loop until less than Array.length 
+		for( i= 0; i<Array.length; i++)
+Step5. Array[Array[i] % 10] = Array[Array[i] % 10] + 10;
+Step6. Print ("The repeating values are: ");
+Step7. for loop until less than Array.length 
+ 		for (int i = 0; i < Array.length; i++)
+Step8.if Array[i] greater than 19
+ 		if(Array[i] > 19)
+Step9. Print (i + " ")
+Step10. End Task
+
+Output:The repeating value are : 5 6

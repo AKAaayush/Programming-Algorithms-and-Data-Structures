@@ -1,0 +1,12 @@
+//Adding two polnomials.
+Step1. Start
+Step2. Declare onearray[0,5,3,8]
+Step3. Delcare twoarray[2,5,6]
+Step4. Declare sum[onearray.length]
+Step5. Delcare int i = 0
+Step6. for loop until i is less than length of sum
+	sum[i] = onearray[i]+twoarray[i]
+	i++
+	Next Loop
+Step7. Output Sum
+Step8. End Task 

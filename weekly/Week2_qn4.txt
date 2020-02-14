@@ -1,0 +1,18 @@
+//palindrome.
+Step1. Start
+Step2. Declare Word
+Step3. Display "Please Enter a Word"
+Step4. Declare ReverseWord
+Step5. char[] ReverseWord is equal to word.tocharArray()
+Step6. Declare newWord
+Step7. for i equal to ReverseWord.length-1 and greater than or equal to 0
+	newWord is equal to newWord+ReverseWord[i]
+step8. if Word is equal to newWord
+	Display "The word is palindome"
+	Display"newWord"
+Step9. else
+	Display " The word is not palindrome"
+	Display "newWord"
+	End if
+Step10. End Task
+
